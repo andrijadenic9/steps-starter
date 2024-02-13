@@ -10,11 +10,13 @@ function Steps() {
           <div>3</div>
         </div>
 
+        {/* // * StepMessage KOMPONENTA */}
         <div className="message">
           <h3>Step X</h3>
           <p>MOJA PORUKA X</p>
         </div>
 
+        {/* // * Button KOMPONENTA */}
         <div className="buttons">
           <button>Previous</button>
           <button>Next</button>
